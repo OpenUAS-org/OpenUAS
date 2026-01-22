@@ -79,7 +79,7 @@ OpenUAS is built on a small set of immutable principles:
 - Governance designed to prevent capture
 
 These principles are defined in detail in
-[`docs/IMMUTABLE_RULES.md`](docs/IMMUTABLE_RULES.md).
+[`docs/IMMUTABLE_RULES.md`](./docs/IMMUTABLE_RULES.md).
 
 ---
 
@@ -110,7 +110,7 @@ OpenUAS is governed by rules, not by owners.
 - No single individual or organization controls the system
 - Governance roles are limited, transparent, and rotatable
 
-See [`docs/OPEN_UAS_VISION.md`](docs/OPEN_UAS_VISION.md) for the full vision and
+See [`docs/OPEN_UAS_VISION.md`](./docs/OPEN_UAS_VISION.md) for the full vision and
 philosophy.
 
 ---
@@ -175,7 +175,7 @@ passwords are no longer necessary.
 
 ## Overview
 
-- [Immutable Rules](docs/IMMUTABLE_RULES.md)
-- [Vision](docs/OPEN_UAS_VISION.md)
-- [Core Model](docs/CORE_MODEL.md)
-- [Threat Model](docs/THREAT_MODEL.md)
+- [Immutable Rules](./docs/IMMUTABLE_RULES.md)
+- [Vision](./docs/OPEN_UAS_VISION.md)
+- [Core Model](./docs/CORE_MODEL.md)
+- [Threat Model](./docs/THREAT_MODEL.md)
