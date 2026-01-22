@@ -1,5 +1,7 @@
 # OpenUAS
 
+[![License](https://img.shields.io/github/license/OpenUAS-org/OpenUAS)](./LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/OpenUAS-org/OpenUAS)](https://github.com/OpenUAS-org/OpenUAS/commits/main) [![Issues](https://img.shields.io/github/issues/OpenUAS-org/OpenUAS)](https://github.com/OpenUAS-org/OpenUAS/issues) [![Stars](https://img.shields.io/github/stars/OpenUAS-org/OpenUAS)](https://github.com/OpenUAS-org/OpenUAS/stargazers)
+
 ## Open Source Universal Authentication System
 
 OpenUAS is an open, vendor-neutral authentication system designed to replace
@@ -157,8 +159,9 @@ Code contributions will be invited once the core design stabilizes.
 
 ## License
 
-OpenUAS specifications and reference materials are released under an open
-license. Specific licensing details will be defined as the project matures.
+OpenUAS specifications and reference materials are released under the **MIT License**.
+
+See [`LICENSE`](./LICENSE).
 
 ---
 
@@ -175,7 +178,21 @@ passwords are no longer necessary.
 
 ## Overview
 
-- [Immutable Principles](./docs/IMMUTABLE_PRINCIPLES.md)
+- [Immutable Rules](./docs/IMMUTABLE_RULES.md)
 - [Vision](./docs/OPEN_UAS_VISION.md)
 - [Core Model](./docs/CORE_MODEL.md)
 - [Threat Model](./docs/THREAT_MODEL.md)
+- [Technical Design](./docs/TECHNICAL_DESIGN.md)
+- [Authentication Flow](./docs/AUTH_FLOW.md)
+- [Recovery Model](./docs/RECOVERY_MODEL.md)
+- [Registry Model](./docs/REGISTRY_MODEL.md)
+- [Specification v0.1](./docs/SPEC%20v0.1.md)
+
+## Origins
+
+OpenUAS was initiated by **Luigi De Astis** as an open effort to design a
+phishing-resistant, privacy-preserving authentication system intended as
+public digital infrastructure.
+
+The project is governed by transparent rules and is not owned or controlled
+by any individual or organization.
