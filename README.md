@@ -175,7 +175,7 @@ passwords are no longer necessary.
 
 ## Overview
 
-- [Immutable Rules](IMMUTABLE_RULES.md)
-- [Vision](OPEN_UAS_VISION.md)
-- [Core Model](CORE_MODEL.md)
-- [Threat Model](THREAT_MODEL.md)
+- [Immutable Rules](docs/IMMUTABLE_RULES.md)
+- [Vision](docs/OPEN_UAS_VISION.md)
+- [Core Model](docs/CORE_MODEL.md)
+- [Threat Model](docs/THREAT_MODEL.md)
